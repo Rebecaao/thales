@@ -1452,19 +1452,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricas\\.nuget\\packages\\": {}
+    "C:\\Users\\rebeca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricas\\Desktop\\Rebeca\\thales\\thales.csproj",
+      "projectUniqueName": "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj",
       "projectName": "thales",
-      "projectPath": "C:\\Users\\ricas\\Desktop\\Rebeca\\thales\\thales.csproj",
-      "packagesPath": "C:\\Users\\ricas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricas\\Desktop\\Rebeca\\thales\\obj\\",
+      "projectPath": "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj",
+      "packagesPath": "C:\\Users\\rebeca\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\rebeca\\CSharp\\thales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ricas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rebeca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1528,7 +1528,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

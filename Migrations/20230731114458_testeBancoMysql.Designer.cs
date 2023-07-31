@@ -10,8 +10,8 @@ using thales.Data;
 namespace thales.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230731005035_banco")]
-    partial class banco
+    [Migration("20230731114458_testeBancoMysql")]
+    partial class testeBancoMysql
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

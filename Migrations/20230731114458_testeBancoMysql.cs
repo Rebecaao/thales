@@ -4,7 +4,7 @@
 
 namespace thales.Migrations
 {
-    public partial class banco : Migration
+    public partial class testeBancoMysql : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
