@@ -1,19 +1,30 @@
-.data{
+.data {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    width: 10%;
-
+    width: 100px;
+    
+    
 }
-.data-title{
+
+.data-title {
     margin-top: 20px;
 }
 
-.container-datas{
-   margin-bottom: 20px;
+.container-datas {
+    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    
-  
+}
+
+#data-hoje {
+    text-align: center;
+
+    width: 100px;
+}
+
+#data-hoje>h1 {
+    text-align: center;
+
 }
