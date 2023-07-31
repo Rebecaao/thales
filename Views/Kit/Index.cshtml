@@ -1,0 +1,92 @@
+@model IEnumerable<KitModel>
+
+<head>
+    <link rel="stylesheet" href="~/css/Data.css">
+    <link rel="stylesheet" href="~/css/CardSituacao.css">
+    <link rel="stylesheet" href="~/css/Kit.css">
+</head>
+<div class="container-kit">
+    <div class="container-status">
+        <H1>STATUS</H1>
+        <div id="nao-iniciado" class="situacao">NÃO INICIADO</div>
+    </div>
+    <div class="container-header">
+        <div class="data">
+            <div class="data-title">DATA HOJE</div>
+            <div class="container-datas">
+                <div id="dia-semana" class="dia-semana"></div>
+                <div id="dia" class="dia"></div>
+                <div id="mes" class="mes"></div>
+            </div>
+        </div>
+    
+    
+        <nav class="container-sitiacao">
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">
+                        0
+                    </div>
+                    <div id="nao-iniciado" class="situacao">
+                        NÃO INICIADO
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="remeker" class="situacao">
+                        REMEKER
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="finalizados" class="situacao">
+                        FINALIZADOS
+                    </div>
+                </div>
+            </a>
+
+           
+
+          
+        </nav>
+    </div>
+     
+   
+
+
+        <table class="table table-dark table-houver">
+            <thead>
+                <tr>
+                    <th scope="col">ITEM</th>
+                    <th scope="col">ICCID</th>
+                    <th scope="col">OPÇÃO</th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+
+                @if (Model != null)
+                {
+
+                    @foreach (var Arquivo in Model)
+                    {
+                        <tr>
+                            <th scope="row">@Arquivo.Codigo</th>
+                            <th scope="row">@Arquivo.Iccid</th>
+                            <th scope="row">
+                                <button onclick="window.print()">IMPRIMIR</button>
+                            </th>
+
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+</div>

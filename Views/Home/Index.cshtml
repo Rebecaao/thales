@@ -1,0 +1,115 @@
+﻿
+@model IEnumerable<ArquivoModel>
+
+<head>
+    <link rel="stylesheet" href="~/css/Data.css">
+    <link rel="stylesheet" href="~/css/CardSituacao.css">
+
+    <link rel="stylesheet" href="~/css/Home.css">
+</head>
+<div class="container-geral">
+    <div class="container-header">
+        <div class="data">
+            <div class="data-title">DATA HOJE</div>
+            <div class="container-datas">
+                <div id="dia-semana" class="dia-semana">dia smeana</div>
+                <div id="dia" class="dia">dia</div>
+                <div id="mes" class="mes">mes</div>
+            </div>
+        </div>
+        <nav class="container-sitiacao">
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">
+                        0
+                    </div>
+                    <div id="nao-iniciado" class="situacao">
+                        NÃO INICIADOOO
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="producao" class="situacao">
+                        EM PRODUÇÃO
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="atrasados" class="situacao">
+                        ATRASADOS
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="pausados" class="situacao">
+                        PAUSADOS
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="card-situacao">
+                    <div class="container-quantidade">0</div>
+                    <div id="finalizados" class="situacao">FINALIZADO </div>
+                </div>
+            </a>
+        </nav>
+    </div>
+
+
+    <table class="table table-dark table-houver">
+        <thead>
+            <tr>
+                <th scope="col">ITEM</th>
+                  <th scope="col">DESCRIÇÃO</th>
+                    <th scope="col">CLIENTE</th>
+                      <th scope="col">PROVEDOR</th>
+                        <th scope="col">CÓDIGO EMBALAGEM</th>
+                          <th scope="col">TIPO EMBALAGEM</th>
+                            <th scope="col">CLIENTE P.O</th>
+                              <th scope="col">LOTE</th>
+                                <th scope="col">QUANTIDADE</th>
+                                  <th scope="col">HLR</th>
+                                    <th scope="col">EAN</th>
+                                      <th scope="col">PERFIL</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @if (Model != null)
+            {
+
+                @foreach (var Arquivo in Model)
+                {
+                    <tr>
+                        <th scope="row">@Arquivo.Codigo</th>
+                           <th scope="row">@Arquivo.Descricacao</th>
+                              <th scope="row">@Arquivo.Cliente</th>
+                                 <th scope="row">@Arquivo.Provedor</th>
+                                    <th scope="row">@Arquivo.CodigoEmbalagem</th>
+                                       <th scope="row">@Arquivo.TipoEmbalagem</th>
+                                          <th scope="row">@Arquivo.ClentePO</th>
+                                          <th scope="row">@Arquivo.Lote</th>
+                                          <th scope="row">@Arquivo.Quantidade</th>
+                                          <th scope="row">@Arquivo.Hlr</th>
+                                          <th scope="row">@Arquivo.Ean</th>
+                                          <th scope="row">@Arquivo.Perfil</th>
+                       
+
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+</div>
