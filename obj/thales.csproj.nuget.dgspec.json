@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj": {}
+    "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj": {
+    "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj",
+        "projectUniqueName": "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj",
         "projectName": "thales",
-        "projectPath": "c:\\Users\\rebeca\\CSharp\\thales\\thales.csproj",
-        "packagesPath": "C:\\Users\\rebeca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rebeca\\CSharp\\thales\\obj\\",
+        "projectPath": "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj",
+        "packagesPath": "C:\\Users\\ezequiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezequiel\\Documents\\thales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rebeca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

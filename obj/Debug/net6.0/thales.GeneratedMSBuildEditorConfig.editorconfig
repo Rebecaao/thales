@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = thales
 build_property.RootNamespace = thales
-build_property.ProjectDir = c:\Users\rebeca\CSharp\thales\
+build_property.ProjectDir = C:\Users\ezequiel\Documents\thales\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\rebeca\CSharp\thales
+build_property.MSBuildProjectDirectory = C:\Users\ezequiel\Documents\thales
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/rebeca/CSharp/thales/Views/CaixaInner/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/CaixaInner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FpeGFJbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/CaixaOuter/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/CaixaOuter/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FpeGFPdXRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Home/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Kit/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Kit/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Login/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Pallet/Index.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Pallet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsbGV0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Shared/Error.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/_ViewImports.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/_ViewStart.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/rebeca/CSharp/thales/Views/Shared/_Layout.cshtml]
+[C:/Users/ezequiel/Documents/thales/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-movc6k2vsj
