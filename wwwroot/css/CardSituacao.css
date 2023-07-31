@@ -1,10 +1,12 @@
+
+
 .container-sitiacao{
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 80%;
-  
 }
+
 .card-situacao{
     display: flex;
     flex-direction: column;
@@ -17,6 +19,8 @@
     background-color: white;
 
 }
+
+
 .container-quantidade {
     display: inline-flex;
     height: 10vh;
