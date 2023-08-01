@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEFE22tXqHH2sBCp/LZsJc5Gtcx3BEMge0SlJNDOuq6v3tdset98LSJmZQXaW3RQxrBoQgxmeq/JZD16kYq4jA==",
+  "dgSpecHash": "K2ygzHAz4ofn+pgCUiKM4jMHwP1PgdQ3zC9twNLH0t1JTalNxkPG+an+9eErEOdQM7YQ97GN6WRI3u3fPyct7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj",
+  "projectFilePath": "C:\\Users\\ezequiel\\Pictures\\thales\\thales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequiel\\.nuget\\packages\\electronnet.api\\23.6.1\\electronnet.api.23.6.1.nupkg.sha512",
     "C:\\Users\\ezequiel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
