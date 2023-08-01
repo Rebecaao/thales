@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj": {}
+    "C:\\Users\\ezequiel\\Pictures\\thales\\thales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj": {
+    "C:\\Users\\ezequiel\\Pictures\\thales\\thales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj",
+        "projectUniqueName": "C:\\Users\\ezequiel\\Pictures\\thales\\thales.csproj",
         "projectName": "thales",
-        "projectPath": "C:\\Users\\ezequiel\\Documents\\thales\\thales.csproj",
+        "projectPath": "C:\\Users\\ezequiel\\Pictures\\thales\\thales.csproj",
         "packagesPath": "C:\\Users\\ezequiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequiel\\Documents\\thales\\obj\\",
+        "outputPath": "C:\\Users\\ezequiel\\Pictures\\thales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config"
